@@ -45,3 +45,21 @@
 | 21 | 0 | 6.720 |
 | 45 | 0 | 14.400 |
 | 42 | 0 | 13.440 |
+
+
+### Examination Analysis
+* Midterm
+  * Mean: **1.000**
+  * Variance: 1.000
+  * Median: **1**
+  * Min/Max: (1, 1)
+* Final
+  * Mean: **2.000**
+  * Variance: 2.000
+  * Median: **2**
+  * Min/Max: (2, 2)
+* Total
+  * Mean: **3.000**
+  * Variance: 3.000
+  * Median: **3**
+  * Min/Max: (3, 3)
